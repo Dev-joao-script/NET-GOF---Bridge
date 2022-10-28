@@ -1,0 +1,16 @@
+D:\_serie_design_patterns\__Estruturais\3_Bridge\BridgePratica\BridgePratica\bin\Debug\net5.0\BridgePratica.exe
+D:\_serie_design_patterns\__Estruturais\3_Bridge\BridgePratica\BridgePratica\bin\Debug\net5.0\BridgePratica.deps.json
+D:\_serie_design_patterns\__Estruturais\3_Bridge\BridgePratica\BridgePratica\bin\Debug\net5.0\BridgePratica.runtimeconfig.json
+D:\_serie_design_patterns\__Estruturais\3_Bridge\BridgePratica\BridgePratica\bin\Debug\net5.0\BridgePratica.runtimeconfig.dev.json
+D:\_serie_design_patterns\__Estruturais\3_Bridge\BridgePratica\BridgePratica\bin\Debug\net5.0\BridgePratica.dll
+D:\_serie_design_patterns\__Estruturais\3_Bridge\BridgePratica\BridgePratica\bin\Debug\net5.0\ref\BridgePratica.dll
+D:\_serie_design_patterns\__Estruturais\3_Bridge\BridgePratica\BridgePratica\bin\Debug\net5.0\BridgePratica.pdb
+D:\_serie_design_patterns\__Estruturais\3_Bridge\BridgePratica\BridgePratica\obj\Debug\net5.0\BridgePratica.csproj.AssemblyReference.cache
+D:\_serie_design_patterns\__Estruturais\3_Bridge\BridgePratica\BridgePratica\obj\Debug\net5.0\BridgePratica.GeneratedMSBuildEditorConfig.editorconfig
+D:\_serie_design_patterns\__Estruturais\3_Bridge\BridgePratica\BridgePratica\obj\Debug\net5.0\BridgePratica.AssemblyInfoInputs.cache
+D:\_serie_design_patterns\__Estruturais\3_Bridge\BridgePratica\BridgePratica\obj\Debug\net5.0\BridgePratica.AssemblyInfo.cs
+D:\_serie_design_patterns\__Estruturais\3_Bridge\BridgePratica\BridgePratica\obj\Debug\net5.0\BridgePratica.csproj.CoreCompileInputs.cache
+D:\_serie_design_patterns\__Estruturais\3_Bridge\BridgePratica\BridgePratica\obj\Debug\net5.0\BridgePratica.dll
+D:\_serie_design_patterns\__Estruturais\3_Bridge\BridgePratica\BridgePratica\obj\Debug\net5.0\ref\BridgePratica.dll
+D:\_serie_design_patterns\__Estruturais\3_Bridge\BridgePratica\BridgePratica\obj\Debug\net5.0\BridgePratica.pdb
+D:\_serie_design_patterns\__Estruturais\3_Bridge\BridgePratica\BridgePratica\obj\Debug\net5.0\BridgePratica.genruntimeconfig.cache
